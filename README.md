@@ -1,0 +1,1 @@
+# norma-template-test
